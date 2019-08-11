@@ -1,6 +1,6 @@
 # tuxcat
 
-  ![tuxcat.png](https://github.com/dru18/tuxcat/blob/master/screenshots/tuxcate.png)
+  ![tuxcate.png](https://github.com/dru18/tuxcat/blob/master/screenshots/tuxcate.png)
 
 This script needs to have some additional packages to be installed on your system to work. It will install these dependencies for you. These dependencies are,
 
@@ -26,7 +26,7 @@ This script needs to have some additional packages to be installed on your syste
 
   `tuxcat file`
 
-  ![tuxcat.png](https://github.com/dru18/tuxcat/blob/master/screenshots/tuxcat.png)
+  ![tuxcate.png](https://github.com/dru18/tuxcat/blob/master/screenshots/tuxcate.png)
 
 - If you give no parameter it suggest you to give any parameter to search for.
 
