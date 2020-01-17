@@ -6,4 +6,4 @@ echo -e "[!] Pass a file name with program.\n\nusage: tuxcat [filename]\n\nexamp
 exit
 else
 cat $1
-fi | toilet -f term --gay
+fi | toilet -t -f term --gay
